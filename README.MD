@@ -10,6 +10,7 @@
       - 231106 - Part1 들어가며 Chapter 1 완료
       - 231107 - Part2 데이터 구조체 Chapter 2 완료
       - 231108 - Part2 딕셔너리와 집합 Chapter 3, 텍스트와 바이트 Chapter 4 완료
+      - 231116 - Part3 일급 함수 Chapter 5, 일급 함수 디자인 패턴 Chapter 6, 함수 데커레이터와 클로저 Chapter 7 완료
 
 
     
